@@ -10,4 +10,4 @@
 
 login with credentials:
 
-admin@admin.com/password
+admin@admin.com/password# laraveltest
